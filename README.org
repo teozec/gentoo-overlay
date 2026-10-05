@@ -1,0 +1,7 @@
+* gentoo-overlay
+
+This overlay contains portage ebuilds for software that I find useful.
+
+** License
+
+Unless otherwise stated, the ebuilds in this repository are licensed under the GNU General Public License, version 3 or later (GPL-3.0-or-later)
